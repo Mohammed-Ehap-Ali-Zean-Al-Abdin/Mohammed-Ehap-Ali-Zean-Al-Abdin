@@ -34,17 +34,17 @@ Hi there! I'm **Mohammed Ehap**, a **Software Engineer** with a passion for buil
 
 ## 🌟 Key Projects  
 
-### [Flask Emotion Detection](#)  
+### [Flask Emotion Detection](https://flask-emotion-detection.vercel.app/)  
 **Tools & Technologies**: Flask, Python, IBM Watson AI Libraries  
 - Developed a web application with **AI functionality** using **IBM Watson libraries** for **NLP** and **speech-based tasks**.  
 - Deployed the app using **Flask** with robust error handling and unit testing.  
 
-### [MERN Auth](#)  
+### [MERN Auth](https://mern-auth-express.vercel.app/)  
 **Tools & Technologies**: MongoDB, Express.js, React.js, Node.js, Redux Toolkit, React Bootstrap  
 - Built a **boilerplate for authentication** using **JWT stored in HTTP-only cookies** for secure access.  
 - Integrated **Redux Toolkit** for state management and **React Bootstrap** for responsive design.  
 
-### [Images Resizer](#)  
+### [Images Resizer](https://github.com/Mohammed-Ehap-Ali-Zean-Al-Abdin/Image-Resizer/)
 **Tools & Technologies**: TypeScript, Node.js, Express.js, Prettier, ESLint, Jasmine, Sharp  
 - Built an API for **image resizing and serving**, supporting cached image storage and placeholder generation.  
 - Followed **industry best practices** for scalability, including **unit testing** and linting.  
@@ -84,7 +84,7 @@ Hi there! I'm **Mohammed Ehap**, a **Software Engineer** with a passion for buil
 - **Email**: mohammed.ehap.zean@gmail.com  
 - **LinkedIn**: [mohammed-ehap-ali-zean-al-abdin](https://linkedin.com/in/mohammed-ehap-ali-zean-al-abdin)  
 - **GitHub**: [Mohammed-Ehap-Ali-Zean-Al-Abdin](https://github.com/Mohammed-Ehap-Ali-Zean-Al-Abdin)  
-- **Portfolio**: [Meaza](https://meaza.vercel.app/)  
+- **Portfolio**: [MEAZA](https://meaza.vercel.app/)  
 
 ---
 
