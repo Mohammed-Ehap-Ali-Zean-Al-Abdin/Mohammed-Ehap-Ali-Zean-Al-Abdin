@@ -58,11 +58,11 @@ Hi there! I'm **Mohammed Ehap**, a **Software Engineer** with a passion for buil
 ---
 
 ## 🏆 Achievements & Certifications  
-- **Meta Front-End Developer Professional Certificate**  
-- **AWS Educate Cloud 101**  
-- **Applied Software Engineering Fundamentals (IBM)**  
-- **Developing Cloud Apps with Node.js and React (IBM)**  
-- **Agile Software Developer (Udacity)**  
+- [**Meta Front-End Developer Professional Certificate**](https://coursera.org/share/80e51e32b0798dbc6e36118ae13a579a)  
+- [**AWS Educate Cloud 101**](https://www.credly.com/badges/34ff4393-4e90-49a2-8732-e75aab903a9d/public_url)  
+- [**Applied Software Engineering Fundamentals (IBM)**](https://coursera.org/share/a2824c38bb6691a1615c7465b99e1cc7)  
+- [**Developing Cloud Apps with Node.js and React (IBM)**](https://coursera.org/share/d8fd872687923714cabe584e3e2d9255)  
+- [**Agile Software Developer (Udacity)**](https://www.udacity.com/certificate/e/f4bc135c-dc53-11ee-88d4-fb648e9c83d2)  
 
 ---
 
